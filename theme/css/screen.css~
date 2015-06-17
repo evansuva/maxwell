@@ -30,8 +30,6 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-        background-image: url("/images/IMG_8872.jpg");
-
 }
 ol, ul {
 	list-style: none;
